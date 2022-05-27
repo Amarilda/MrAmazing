@@ -1,0 +1,97 @@
+date,name,session,country,capital,answer,correct
+2021-12-30,Anders,1,USA. Arkansas,Little Rock,carston city,0
+2021-12-30,Anders,1,Mauritania,Nouakchott,l,0
+2021-12-30,Anders,1,USA. Wisconsin,Madison,s,0
+2021-12-30,Anders,1,USA. Minnesota,St. Paul,s,0
+2021-12-30,Anders,1,Tonga,Nuku’alofa,d,0
+2021-12-30,Anders,1,USA. New Mexico,Santa Fe,santa fe,1
+2021-12-30,Anders,1,Venezuela,Caracas,s,0
+2021-12-30,Anders,1,United States Virgin Islands,Charlotte Amalie,c,0
+2021-12-30,Anders,1,Eritrea,Asmara,d,0
+2021-12-30,Anders,1,Antigua and Barbuda,St. John's,d,0
+2021-12-30,Anders,1,USA. Georgia,Atlanta,s,0
+2021-12-30,Anders,2,Madagascar,Antananarivo,antananarivo,1
+2021-12-30,Anders,2,Portugal,Lisbon,lisbon,1
+2021-12-30,Anders,2,USA. Michigan,Lansing,s,0
+2021-12-30,Anders,2,Bangladesh,Dhaka,a,0
+2021-12-30,Anders,2,Cameroon,Yaounde,d,0
+2021-12-30,Anders,2,South Sudan,Juba,s,0
+2021-12-30,Anders,2,Republic of the Congo,Brazzaville,kinshasa,0
+2021-12-30,Anders,2,Mozambique,Maputo,s,0
+2021-12-30,Anders,2,Cyprus,Nicosia,nicosia,1
+2021-12-30,Anders,2,Comoros,Moroni,c,0
+2021-12-30,Anders,2,Guam,Hagatna,d,0
+2021-12-30,Anders,2,Spain,Madrid,madrid,1
+2021-12-30,Anders,2,Dominican Republic,Santo Domingo,dominica,0
+2021-12-30,Anders,2,Bhutan,Thimphu,propan,0
+2021-12-30,Anders,3,Pitcairn Islands,Adamstown,fuck,0
+2021-12-30,Anders,3,USA. Tennessee,Nashville,jackson,0
+2021-12-30,Anders,3,Oman,Muscat,yeman,0
+2021-12-30,Anders,3,Libya,Tripoli,tripoli,1
+2021-12-30,Anders,3,USA. Oklahoma,Oklahoma City,tulsa,0
+2021-12-30,Anders,3,Togo,Lome,taga,0
+2021-12-30,Anders,3,Peru,Lima,lima,1
+2021-12-30,Anders,3,USA. Montana,Helena,helena,1
+2021-12-30,Anders,3,Somalia,Mogadishu,mogadishu,1
+2021-12-30,Anders,3,Belarus,Minsk,minsk,1
+2021-12-30,Anders,3,USA. Georgia,Atlanta,boobs,0
+2021-12-30,Anders,3,Czech Republic,Prague,pague,0
+2021-12-30,Anders,3,Nigeria,Abuja,niger,0
+2021-12-30,Anders,3,Cocos (Keeling) Islands,West Island,no,0
+2021-12-30,Anders,3,Armenia,Yerevan,yerevan,1
+2021-12-30,Anders,3,Tajikistan,Dushanbe,yes,0
+2021-12-30,Anders (Drunk),1,Papua New Guinea,Port Moresby,druuunk,0
+2021-12-30,Anders (Drunk),1,China,Beijing,bejing,0
+2021-12-30,Anders (Drunk),1,Somaliland,Hargeisa,mogadishu,0
+2021-12-30,Anders (Drunk),1,USA. Arkansas,Little Rock,little rock,1
+2021-12-30,Anders (Drunk),1,Somaliland,Hargeisa,hargeisa,1
+2021-12-30,Anders (Drunk),1,Kuwait,Kuwait City,beirut,0
+2021-12-30,Anders (Drunk),1,Syria,Damascus,damascus,1
+2021-12-30,Anders (Drunk),1,Wales,Cardiff,cardiff,1
+2021-12-30,Anders (Drunk),1,USA. Maryland,Annapolis,harrisburg,0
+2021-12-30,Anders (Drunk),1,Nigeria,Abuja,abuja,1
+2021-12-30,Anders (Drunk),1,Slovenia,Ljubljana,ljubliana,0
+2021-12-30,Anders (Drunk),1,USA. Mississippi,Jackson,jackson,1
+2021-12-30,Anders (Drunk),1,Madagascar,Antananarivo,antananarivo,1
+2021-12-30,Anders (Drunk),1,Peru,Lima,lima,1
+2021-12-30,Anders (Drunk),1,Switzerland,Bern,bern,1
+2021-12-30,Anders (Drunk),1,Christmas Island,Flying Fish Cove,c,0
+2021-12-30,Anders (Drunk),1,United States Virgin Islands,Charlotte Amalie,d,0
+2021-12-30,Anders (Drunk),1,Slovenia,Ljubljana,ljubljana,1
+2021-12-30,Anders (Drunk),1,USA. Arizona,Phoenix,phoenix,1
+2021-12-30,Anders (Drunk),1,Belarus,Minsk,minsk,1
+2021-12-30,Anders (Drunk),1,Hungary,Budapest,budapest,1
+2021-12-30,Anders (Drunk),1,Tanzania,Dodoma,tanzanoya harasopiet,0
+2021-12-30,Anders (Drunk),1,Uruguay,Montevideo,montevideo,1
+2021-12-30,Anders (Drunk),1,Pitcairn Islands,Adamstown,no for fuck sake,0
+2021-12-30,You Are That Big,1,Switzerland,Bern,bern,1
+2021-12-30,You Are That Big,1,Angola,Luanda,angola,0
+2021-12-30,You Are That Big,1,Colombia,Bogota,la paz,0
+2021-12-30,You Are That Big,1,Solomon Islands,Honiara,no,0
+2021-12-30,You Are That Big,1,United Kingdom Northern Ireland,Belfast,belfast,1
+2021-12-30,You Are That Big,1,USA. Connecticut,Hartford,hartford,1
+2021-12-30,You Are That Big,1,Norfolk Island,Kingston,no,0
+2021-12-30,You Are That Big,1,Northern Cyprus,Nicosia,nicosia,1
+2021-12-30,You Are That Big,1,Comoros,Moroni,canary,0
+2021-12-30,You Are That Big,1,Puerto Rico,San Juan,yes,0
+2021-12-30,You Are That Big,1,Bhutan,Thimphu,propan,0
+2021-12-30,You Are That Big,1,Netherlands,Amsterdam,amsterdam,1
+2021-12-30,You Are That Big,1,Brunei,Bandar Seri Begawan,no,0
+2021-12-30,You Are That Big,1,Syria,Damascus,damascus,1
+2021-12-30,You Are That Big,1,Pakistan,Islamabad,istanbul,0
+2021-12-30,You Are That Big,1,Bosnia and Herzegovina,Sarajevo,sarajevo,1
+2021-12-30,You Are That Big,1,Turkey,Ankara,istanbul,0
+2022-01-04,Anders,4,Republic of the Congo,Brazzaville,congo,0
+2022-01-04,Anders,4,Luxembourg,Luxembourg,brussels,0
+2022-01-04,Anders,4,French Guiana,Cayenne,paris,0
+2022-01-04,Anders,4,Antigua and Barbuda,St. John's,f,0
+2022-01-04,Anders,4,Italy,Rome,d,0
+2022-01-04,Anders,4,Madagascar,Antananarivo,,0
+2022-01-04,Anders,4,Slovakia,Bratislava,ljubøjana,0
+2022-01-04,Anders,4,Dominica,Roseau,,0
+2022-01-04,Anders,4,Federated States of Micronesia,Palikir,,0
+2022-01-04,Anders,4,Niue,Alofi,,0
+2022-01-04,Anders,5,Latvia,Riga,riga,1
+2022-01-04,Anders,5,Norway,Oslo,oslo,1
+2022-01-04,Anders,6,Norway,Oslo,oslo,1
+2022-01-04,Anders,6,Latvia,Riga,riga,1
